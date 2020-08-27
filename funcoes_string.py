@@ -24,4 +24,4 @@ print(texto.title()) # Saída: Aprendendo Com Os Mestres
 
 # Substitui parte do conteúdo de uma string por outro
 print(texto.replace("OS mestres", "python masters"))
-# Saída: Aprendendo COM python masters
+# Saída: aprendendo COM python masters
